@@ -1,5 +1,5 @@
 html {
-    background: url(/etc/img/backgraund-a.jpg);
+    background: url(../../etc/img/backgraund-a.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
