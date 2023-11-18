@@ -59,7 +59,7 @@ html, body {
 #coverflow {
     height: 30%;
     width: 100%;
-
+    margin-top: 100px;
     -webkit-perspective: 600px;
 }
 
